@@ -1,6 +1,15 @@
 This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
-# List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# List of Free Learning Resources In Many Languages
+
+<div align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
 
 ## Intro
 
@@ -79,6 +88,7 @@ Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welc
 ### Free Online Courses
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
++ [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
 + [English](courses/free-courses-en.md)
 + [Finnish](courses/free-courses-fi.md)
